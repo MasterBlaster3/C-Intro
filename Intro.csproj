@@ -1,0 +1,10 @@
+<!-- This is the C# project file that contains certain configuration settings for your application. It's kinda like the package.json for C#. -->
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
